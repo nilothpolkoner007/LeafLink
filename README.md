@@ -18,3 +18,24 @@ Together, we can solve nature’s challenges and create a sustainable future. Le
 🌟 Visit us today at **LeafLink** and take the first step toward a greener tomorrow.  
 
 #TreePlantation #EcoInnovation #Botany #NatureLovers #LeafLink #Sustainability
+# LeafLink 🌿  
+**Empowering Nature Lovers with Tree Plantation and Research**  
+
+LeafLink is a React-based web application designed for nature enthusiasts, botanists, and eco-conscious individuals. It provides tools and resources for tree plantation, research, and environmental sustainability.  
+
+## Features ✨  
+- 🌳 **Track Tree Plantation Progress**  
+- 📊 **Access Comprehensive Tree Research Dataset**  
+- 🌿 **Collaborate on Environmental Projects**  
+- 🌎 **Free Domain for Botany Web Apps**  
+
+## Demo 🎥  
+Check out our live demo: [LeafLink Live](https://your-live-demo-url.com)  
+
+## Installation 📦  
+
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/your-repo/leaflink.git  
+   cd leaflink  
+
