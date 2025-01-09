@@ -39,3 +39,42 @@ Check out our live demo: [LeafLink Live](https://your-live-demo-url.com)
    git clone https://github.com/your-repo/leaflink.git  
    cd leaflink  
 
+Install dependencies:
+
+bash
+Copy code
+npm install  
+Start the development server:
+
+bash
+Copy code
+npm start  
+The app will be available at http://localhost:3000.
+
+Scripts 📜
+npm start: Run the app in development mode.
+npm build: Build the app for production.
+npm test: Run tests for the app.
+Technologies Used 💻
+React
+Node.js
+Express
+MongoDB (or your chosen database)
+RESTful API
+Contribution 🤝
+We welcome contributions from the community! To contribute:
+
+Fork the repository.
+Create a new branch: git checkout -b feature-name.
+Commit your changes: git commit -m "Description of changes".
+Push to the branch: git push origin feature-name.
+Submit a pull request.
+License 📄
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact 📧
+For questions or suggestions, reach out to us at:
+🌐 Website: www.leaflink.com
+📩 Email: support@leaflink.com
+
+Together, let’s make the world greener! 🌱
